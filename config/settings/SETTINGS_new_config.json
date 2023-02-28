@@ -1,0 +1,59 @@
+{
+  "title": "SETTINGS_new_config",
+  "last_edited": "2022-09-12 08:47:17.416344",
+  "video": {
+    "screen": {
+      "aspect": "",
+      "resolution_w": 0,
+      "resolution_h": 0
+    },
+    "game": {
+      "aspect": "",
+      "resolution_w": 0,
+      "resolution_h": 0
+    },
+    "fullscreen": false,
+    "max_framerate": 0,
+    "gui_scale": 0
+  },
+  "keybindings": {
+    "keyboard": {
+      "movement": {
+        "up": null,
+        "left": null,
+        "down": null,
+        "right": null,
+        "sprint": null
+      },
+      "ability": {
+        "main": null,
+        "secondary": null,
+        "use": null,
+        "reload": null
+      },
+      "menusEtc": {
+        "inventory": null,
+        "pause_close": null
+      }
+    },
+    "mouse": {
+      "movement": {
+        "up": null,
+        "left": null,
+        "down": null,
+        "right": null,
+        "sprint": null
+      },
+      "ability": {
+        "main": null,
+        "secondary": null,
+        "use": null,
+        "reload": null
+      },
+      "menusEtc": {
+        "inventory": null,
+        "pause_close": null
+      }
+    }
+  }
+}
